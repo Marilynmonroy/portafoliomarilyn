@@ -7,10 +7,9 @@ interface ExternalLinkProps {
 }
 export function ExternalLink(props: ExternalLinkProps) {
   return (
-    <div className={styles.externalLink}>
-      <a href={props.link} target="_blank">
+      <a className={styles.externalLink} href={props.link} target="_blank">
         {props.title}
       </a>
-    </div>
   );
 }
+

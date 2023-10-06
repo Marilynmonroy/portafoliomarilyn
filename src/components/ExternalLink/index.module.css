@@ -2,5 +2,8 @@
     border: 1px solid;
     padding: 10.5px 16px;
     border-radius: 8px;
+    border-color: #a673D9;
     width: fit-content;
+        text-decoration: none;
+            color: #585859;
 }

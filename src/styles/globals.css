@@ -4,4 +4,8 @@ textarea,
 button {
     font-family: 'Poppins';
     font-weight: 400;
+    padding: 80px;
+    padding-bottom: 0;
+    color: #585859;
 }
+

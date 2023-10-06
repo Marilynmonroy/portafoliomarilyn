@@ -1,26 +1,23 @@
 [
   {
     "id": 1,
-    "titulo": "Meu Projeto React 1",
-    "linguagem": "JavaScript",
+    "titulo": "M-HIT",
+    "ferramentas": "Illustrator",
     "imagem": "../../assets/imagem1.png",
-    "descricao": "Um projeto React incrível.",
-    "linkGithub": "https://github.com/seu-usuario/meu-projeto-1"
+    "descricao": "Logotipo para um personal trainer."
   },
   {
     "id": 2,
-    "titulo": "Meu Projeto React 2",
-    "linguagem": "React",
+    "titulo": "Voovó",
+    "ferramentas": "Illustrator e photoshop",
     "imagem": "../../assets/imagem2.png",
-    "descricao": "Outro projeto React emocionante.",
-    "linkGithub": "https://github.com/seu-usuario/meu-projeto-2"
+    "descricao": "Logotipo para um projeto de StartUp para ensinar idosos a utilizar diferentes tecnologias"
   },
   {
     "id": 3,
-    "titulo": "Projeto Legal em React",
-    "linguagem": "JavaScript",
+    "titulo": "Marca pessoal",
+    "ferramentas": "Illustrator e figma",
     "imagem": "../../assets/imagem3.png",
-    "descricao": "Um projeto React interessante para aprender.",
-    "linkGithub": "https://github.com/seu-usuario/projeto-legal"
+    "descricao": "Identidade visual para um desenvolvedor web."
   }
 ]
