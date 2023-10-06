@@ -37,9 +37,9 @@ export default function Home() {
                     rule="Community manager"
                     year="2021"
                     company="AEME - fast food" />
-                <Link href={'/'} download={`../../assets/MarilynAragon.cv(2)`}>
-                <Button title='Baixar currículo' href='../../assets/MarilynAragon.cv(2)' />
-                </Link>
+
+                <Button title='Baixar currículo' href='/public/MarilynAragon.cv (2).pdf' />
+
                 
             </div>
             <div>
@@ -52,6 +52,6 @@ export default function Home() {
                 })}
             </div>
         </main>
-            <Footer buttonTitle='Voltar para o topo' paginationLink='/home'/></>
+        <Footer buttonTitle='Voltar para o topo' paginationLink='/home'/></>
     )
 }
