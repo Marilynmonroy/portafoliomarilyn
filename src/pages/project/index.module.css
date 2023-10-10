@@ -8,5 +8,7 @@
 .img {
     padding: 20px 0;
 }
-
+.button {
+    text-decoration: none;
+}
 

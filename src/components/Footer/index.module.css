@@ -1,16 +1,20 @@
 .footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-    padding: 40px 0;
-    text-decoration: none;  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding: 40px 0;
+  text-decoration: none;
 }
 .socialMedia {
-    display: flex;
-    gap: 12px;
+  display: flex;
+  gap: 12px;
 }
 
 .footer h1 {
-    font-size: 24px;
+  font-size: 24px;
+}
+
+.buttonFooter {
+  text-decoration: none;
 }
