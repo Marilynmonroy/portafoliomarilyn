@@ -4,7 +4,10 @@
   align-items: center;
   text-align: center;
   text-decoration: none;
+  padding-top: 5rem;
+  gap: 40px;
 }
+
 .socialMedia {
   display: flex;
   gap: 12px;

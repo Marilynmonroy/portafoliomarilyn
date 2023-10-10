@@ -15,7 +15,7 @@ export function Footer({ buttonTitle, paginationLink, icon }: FooterProps) {
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
-      behavior: "smooth", // Adiciona um efeito de rolagem suave
+      behavior: "smooth",
     });
   };
 

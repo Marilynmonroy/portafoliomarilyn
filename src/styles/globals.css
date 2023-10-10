@@ -1,17 +1,13 @@
 body,
-input,
-textarea,
 button {
   font-family: "Poppins";
   font-weight: 400;
   color: #585859;
-  display: flex;
-}
-
-main {
   padding: 5rem;
 }
 
-footer {
-  padding: 0 5rem 2rem;
+@media screen and (max-width: 850px) {
+  body {
+    width: fit-content;
+  }
 }
