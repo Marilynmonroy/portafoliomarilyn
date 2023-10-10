@@ -1,0 +1,14 @@
+.socialMedia {
+  display: flex;
+  gap: 12px;
+  margin: 20px 0 80px;
+}
+
+.profile {
+  height: 100%;
+  padding-right: 80px;
+}
+
+.personalDescription {
+  padding: 20px 0;
+}

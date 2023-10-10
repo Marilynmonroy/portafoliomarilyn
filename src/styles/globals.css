@@ -2,11 +2,16 @@ body,
 input,
 textarea,
 button {
-    font-family: 'Poppins';
-    font-weight: 400;
-    padding: 80px;
-    padding-bottom: 0;
-    color: #585859;
-    height: 100%;
+  font-family: "Poppins";
+  font-weight: 400;
+  color: #585859;
+  display: flex;
 }
 
+main {
+  padding: 5rem;
+}
+
+footer {
+  padding: 0 5rem 2rem;
+}
